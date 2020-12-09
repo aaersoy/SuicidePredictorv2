@@ -1,0 +1,17 @@
+{
+  "API KEY" : "4QDA2J41QWWGPG2HKLSAREAJV",
+  "UNIT GROUP" : "metric",
+  "CITY AND COUNTRIES" : "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\country-capitals.csv",
+  "SUICIDE RATE" : "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\suicide_rate.json",
+  "SUICIDE DETAILED" : "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\suicide_detailed.csv",
+  "CO2 EMISSION" : "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\co2_emission.csv",
+  "WEATHER LINK" : "https://www.visualcrossing.com/weather-history/",
+  "COUNTRIES": "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\top_50_countries.csv",
+  "START DATE" : "2017/01/01",
+  "END DATE" : "2018/12/31",
+  "CITIES WEATHER PATH": "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\weathers\\",
+  "ALL DATA PATH": "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\",
+  "ALL DATA CSV PATH" : "C:\\Users\\Ayberk\\PycharmProjects\\SuicidePredictor\\data\\all_data.csv",
+  "CATEGORICAL COLUMNS": ["_key","country","Name"]
+
+}
